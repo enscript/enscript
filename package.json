@@ -1,0 +1,25 @@
+{
+  "name": "enscript",
+  "version": "1.0.0",
+  "description": "JavaScript but English",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enscript/enscript.git"
+  },
+  "keywords": [
+    "enscript",
+    "engscript",
+    "en-script",
+    "eng-script"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enscript/enscript/issues"
+  },
+  "homepage": "https://github.com/enscript/enscript#readme"
+}
